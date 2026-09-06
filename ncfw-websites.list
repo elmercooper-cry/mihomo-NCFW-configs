@@ -29,16 +29,18 @@ DOMAIN-KEYWORD,85tube
 DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,91porny
 DOMAIN-KEYWORD,avbebe
+DOMAIN-KEYWORD,avgle
 DOMAIN-KEYWORD,avple
 DOMAIN-SUFFIX,caribbeancom.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,fanza.co.jp
+DOMAIN-SUFFIX,heyzo.com
+DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,javbus
 DOMAIN-KEYWORD,javday
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,javhd
 DOMAIN-KEYWORD,javmost
-DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,netflav
 DOMAIN-KEYWORD,njav
@@ -50,8 +52,6 @@ DOMAIN-KEYWORD,swag
 DOMAIN-KEYWORD,taiav
 DOMAIN-SUFFIX,tokyo-hot.com
 DOMAIN-KEYWORD,xchina
-DOMAIN-KEYWORD,avgle
-DOMAIN-SUFFIX,heyzo.com
 
 # 瑟图
 DOMAIN-SUFFIX,danbooru.donmai.us
@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,nudevista.com
 DOMAIN-SUFFIX,rule34.xxx
 DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sex.com
-DOMAIN-SUFFIX,xiutaku.com
 
 # 瑟漫本子
 DOMAIN-SUFFIX,18comic.cc
@@ -75,7 +74,7 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hentai2read.com
 DOMAIN-SUFFIX,hitomi.la
-DOMAIN-KEYWORD,jm
+DOMAIN-KEYWORD,18comic
 DOMAIN-SUFFIX,manga18.club
 DOMAIN-KEYWORD,nhentai
 DOMAIN-SUFFIX,picacomic.com
@@ -121,8 +120,6 @@ DOMAIN-KEYWORD,thepiratebay
 DOMAIN-SUFFIX,torrentgalaxy.to
 
 # 成人论坛
-DOMAIN-KEYWORD,1024
-DOMAIN-KEYWORD,2048
 DOMAIN-KEYWORD,f95zone
 DOMAIN-KEYWORD,jkf
 DOMAIN-KEYWORD,laowang
@@ -142,11 +139,6 @@ DOMAIN-KEYWORD,第一会所
 DOMAIN-KEYWORD,南+
 
 # 盗版 / 聚合 / 其他常见
-DOMAIN-SUFFIX,1337x.to
-DOMAIN-SUFFIX,btdig.com
 DOMAIN-SUFFIX,fapsly.net
 DOMAIN-SUFFIX,javlibrary.com
-DOMAIN-SUFFIX,nyaa.si
-DOMAIN-SUFFIX,rarbg.to
-DOMAIN-SUFFIX,sukebei.nyaa.si
 DOMAIN-KEYWORD,theporndude
