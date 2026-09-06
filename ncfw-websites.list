@@ -65,16 +65,19 @@ DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sex.com
 
 # 瑟漫本子
+DOMAIN-KEYWORD,18comic
 DOMAIN-SUFFIX,18comic.cc
 DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,dlsite.com
+DOMAIN-KEYWORD,e-hentai
+DOMAIN-KEYWORD,exhentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hentai2read.com
 DOMAIN-SUFFIX,hitomi.la
-DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,jmcomic
 DOMAIN-SUFFIX,manga18.club
 DOMAIN-KEYWORD,nhentai
 DOMAIN-SUFFIX,picacomic.com
